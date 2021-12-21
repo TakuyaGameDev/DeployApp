@@ -5894,7 +5894,7 @@
         },
         {
             "name": "laravel/ui",
-            "version": "v3.4.0",
+            "version": "v3.*",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/ui.git",
