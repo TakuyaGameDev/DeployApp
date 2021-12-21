@@ -1,5 +1,5 @@
 <?php
-
+namespace Laravel\Ui;
 use Illuminate\Support\Facades\Route;
 /*
 |--------------------------------------------------------------------------
